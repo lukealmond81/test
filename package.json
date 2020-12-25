@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukealmond81/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukealmond81/test/issues"
+  },
+  "homepage": "https://github.com/lukealmond81/test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
